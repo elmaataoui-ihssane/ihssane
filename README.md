@@ -14,17 +14,14 @@ I combine my interests in cybersecurity, IoT, and AI to build innovative project
 ---
 
 ## 🛠️ Tech Stack
-C | Python | MySQL | Photoshop | Arduino | Linux | Ubuntu
+C | Python | MySQL | Photoshop | Arduino  | Ubuntu |KALI LINUX |PARROTOS
 
 ---
 
 ## 📱 Socials
-[GitHub](https://github.com/IhssaneElMaataoui)  
+
 [LinkedIn](www.linkedin.com/in/ihssane-el-maataoui-694418363
 
----
 
-
----
 
 
